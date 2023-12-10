@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="./progress.css">
+	<title>Прогресс</title>
+</head>
+<body>
+	<div class="main">
+		<div class="enter-frame">
+			<div class="field">
+				<h1>Прогресс: {{progress}}%</h1>
+				<div class="progress-container">
+	  				<progress value={{progress}} max="100"><span>75%</span></progress>
+				</div>
+			</div>
+		<div class="footer-for-main">
+			<p>0/55</p>		
+		</div>	
+		</div>
+	</div>
+</body>
+</html>
