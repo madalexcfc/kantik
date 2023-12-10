@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+      * {
+        box-sizing: border-box;
+      }
+      h2 p{
+        margin-bottom: -15px;
+      }
+      body {
+        font-family: Arial, sans-serif;
+        font-size:1rem;
+        background-color: whitesmoke;
+        margin: 0;
+        padding: 0;
+      }
+
+      .main{
+        padding: 2rem;
+        display: flex;
+        background-color: rgb(255, 255, 224);
+      }
+
+      .field{
+        padding: 32px;
+        margin-bottom: 5rem;
+        min-width: 500px;
+        width: auto;
+        max-width: 554px;
+        min-height: 550px;
+        height: auto;
+        max-height: 550px;
+        border-radius: 15px 10px;
+        margin-left: 2rem ;
+        width: 100%;
+        height: 75%;
+        justify-content: flex-end;
+      }
+      .avatar{
+        display: flex;
+        justify-content: flex-start;
+        box-sizing: border-box;
+      }
+      .avatar-image{
+        max-height: 10rem;
+        max-width: 10rem;
+      }
+      .user-details{
+        
+      }
+      .progress-bar {
+        width: %;
+        background-color: silver;
+        height: 20px;
+        border-radius: 10px;
+      }
+      .progress-bar span{
+        display: flex;
+        justify-content: center;
+      }
+      
+    </style>
+    <title>Аккаунт пользователя</title>
+</head>
+<body>
+
+<div class="main">
+  <div class="avatar">
+    <img src="avatar.png" class="avatar-image">
+  </div>
+  <div class='field'>
+    <div class="user-details">
+      <h2>Пользователь</h2>
+      <p>Никнейм: <span> {{username}}</span></p>
+      <p>Следующая цель: <span> {{nexttarget[0]}}</span></p>
+    </div>
+    <div class="progress">
+      <h2>Прогресс</h2>
+      <div class="progress-bar"><span>{{progress}}</span></div>
+    </div>
+    </div>
+  </div>
+</div>
+
+
+</body>
+</html>
