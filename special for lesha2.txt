@@ -1,0 +1,287 @@
+#comp-kzded5wh {
+    --bg: var(--color_11);
+    --alpha-bg: 0;
+}
+@media screen and (min-width: 320px) and (max-width: 750px)
+#comp-kzded5wh {
+    min-height: 1542.59375px;
+}
+#comp-kzded5wh {
+    height: auto;
+    min-height: 0px;
+    --l_display: unset;
+    top: calc((1 - var(--is-sticky)) * var(--top) + var(--is-sticky) * (var(--sticky-top) + var(--sticky-offset)));
+    --comp-display: unset;
+    align-self: stretch;
+    justify-self: stretch;
+    grid-area: 7/1/8/2;
+    position: relative;
+    --is-sticky: 0;
+    --top: 0px;
+    --sticky-top: 0px;
+}
+
+.comp-kzded5wh-container {
+    box-sizing: border-box;
+    display: var(--l_display,var(--container-display));
+    grid-template-rows: 1fr;
+    grid-template-columns: 1fr;
+    --container-display: grid;
+}
+.O7Ybkb, .xuzjBY {
+    background-color: rgba(var(--bg,var(--color_11)),var(--alpha-bg,1));
+}
+.O7Ybkb, .xuzjBY {
+    background-color: rgba(var(--bg,var(--color_11)),var(--alpha-bg,1));
+}
+.O7Ybkb, .xuzjBY {
+    background-color: rgba(var(--bg,var(--color_11)),var(--alpha-bg,1));
+}
+a, abbr, acronym, address, applet, b, big, blockquote, button, caption, center, cite, code, dd, del, dfn, div, dl, dt, em, fieldset, font, footer, form, h1, h2, h3, h4, h5, h6, header, i, iframe, img, ins, kbd, label, legend, li, nav, object, ol, p, pre, q, s, samp, section, small, span, strike, strong, sub, sup, table, tbody, td, tfoot, th, thead, title, tr, tt, u, ul, var {
+    background: transparent;
+    border: 0;
+    margin: 0;
+    outline: 0;
+    padding: 0;
+    vertical-align: baseline;
+}
+таблица стилей агента пользователя
+section {
+    display: block;
+}
+@media screen and (min-width: 320px) and (max-width: 750px)
+#PAGE_SECTIONSc1dmp {
+    --above-all-in-container: 49;
+}
+@media screen and (min-width: 320px) and (max-width: 1000px)
+#PAGE_SECTIONSc1dmp {
+    --above-all-in-container: 49;
+}
+@media screen and (min-width: 320px) and (max-width: 1800px)
+#PAGE_SECTIONSc1dmp {
+    --above-all-in-container: 49;
+}
+#PAGE_SECTIONSc1dmp {
+    --above-all-in-container: 49;
+}
+#c1dmp .c1dmp-container {
+    position: relative;
+    box-sizing: border-box;
+    display: var(--l_display,var(--container-display));
+    grid-template-rows: 0% auto auto auto auto auto auto auto auto auto 0px;
+    grid-template-columns: minmax(0px,1fr);
+    --container-display: grid;
+}
+#c1dmp:not(.c1dmp-container) {
+    display: var(--l_display,var(--container-display));
+    grid-template-rows: 1fr;
+    grid-template-columns: minmax(0, 1fr);
+    --container-display: grid;
+}
+@media (min-width: 320px) and (max-width: 750px)
+#c1dmp {
+    --shc-mutated-brightness: 128,128,128;
+}
+@media (min-width: 320px) and (max-width: 1000px)
+#c1dmp {
+    --shc-mutated-brightness: 128,128,128;
+}
+@media (min-width: 320px) and (max-width: 1800px)
+#c1dmp {
+    --shc-mutated-brightness: 128,128,128;
+}
+#c1dmp {
+    --shc-mutated-brightness: 128,128,128;
+}
+#c1dmp {
+    --bg: var(--color_11);
+    --alpha-bg: 1;
+}
+#c1dmp {
+    height: auto;
+    top: calc((1 - var(--is-sticky)) * var(--top) + var(--is-sticky) * (var(--sticky-top) + var(--sticky-offset)));
+    --comp-display: unset;
+    position: relative;
+    --is-sticky: 0;
+    --top: 0px;
+    --sticky-top: 0px;
+}
+#SITE_PAGES {
+    --transition-duration: 0ms;
+}
+@media screen and (min-width: 320px) and (max-width: 750px)
+#masterPage:not(.landingPage) {
+    --top-offset: 0px;
+}
+@media screen and (min-width: 320px) and (max-width: 1000px)
+#masterPage:not(.landingPage) {
+    --top-offset: 0px;
+}
+@media screen and (min-width: 320px) and (max-width: 1800px)
+#masterPage:not(.landingPage) {
+    --top-offset: 0px;
+}
+#masterPage:not(.landingPage) {
+    --top-offset: 0px;
+}
+@media screen and (min-width: 320px) and (max-width: 750px)
+#masterPage:not(.landingPage) {
+    --top-offset: 0px;
+}
+@media screen and (min-width: 320px) and (max-width: 1000px)
+#masterPage:not(.landingPage) {
+    --top-offset: 0px;
+}
+@media screen and (min-width: 320px) and (max-width: 1800px)
+#masterPage:not(.landingPage) {
+    --top-offset: 0px;
+}
+#masterPage:not(.landingPage) {
+    --top-offset: 0px;
+}
+body {
+    --scrollbar-width: 0px;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 10px;
+}
+:root {
+    --tooltip-text-color: white;
+    --tooltip-background-color: black;
+    --tooltip-margin: 30px;
+    --tooltip-arrow-size: 6px;
+}
+:root {
+    --tooltip-text-color: white;
+    --tooltip-background-color: black;
+    --tooltip-margin: 30px;
+    --tooltip-arrow-size: 6px;
+}
+:root, :host, .spxThemeOverride {
+    --color_0: 255,255,255;
+    --color_1: 255,255,255;
+    --color_2: 0,0,0;
+    --color_3: 237,28,36;
+    --color_4: 0,136,203;
+    --color_5: 255,203,5;
+    --color_6: 114,114,114;
+    --color_7: 176,176,176;
+    --color_8: 255,255,255;
+    --color_9: 114,114,114;
+    --color_10: 176,176,176;
+    --color_11: 255,255,255;
+    --color_12: 227,227,227;
+    --color_13: 151,151,151;
+    --color_14: 79,79,79;
+    --color_15: 0,0,0;
+    --color_16: 232,234,237;
+    --color_17: 149,158,229;
+    --color_18: 56,74,211;
+    --color_19: 37,49,141;
+    --color_20: 19,25,70;
+    --color_21: 242,222,204;
+    --color_22: 194,178,163;
+    --color_23: 145,133,122;
+    --color_24: 97,89,82;
+    --color_25: 48,44,41;
+    --color_26: 209,219,195;
+    --color_27: 171,184,153;
+    --color_28: 127,148,99;
+    --color_29: 85,99,66;
+    --color_30: 42,49,33;
+    --color_31: 199,211,213;
+    --color_32: 154,169,172;
+    --color_33: 103,126,130;
+    --color_34: 69,84,87;
+    --color_35: 34,42,43;
+    --color_36: 255,255,255;
+    --color_37: 0,0,0;
+    --color_38: 227,227,227;
+    --color_39: 151,151,151;
+    --color_40: 79,79,79;
+    --color_41: 56,74,211;
+    --color_42: 0,0,0;
+    --color_43: 151,151,151;
+    --color_44: 255,255,255;
+    --color_45: 0,0,0;
+    --color_46: 0,0,0;
+    --color_47: 227,227,227;
+    --color_48: 56,74,211;
+    --color_49: 56,74,211;
+Показать все свойства (ещё 38)
+}
+<style>
+:root {
+    --cookie-banner-primary-color: #fff;
+    --cookie-banner-secondary-color: #000;
+    --cookie-banner-font-family: HelveticaNeue, Helvetica Neue, helvetica, Sans-Serif;
+    --cookie-banner-font-size: 14px;
+}
+<style>
+:root {
+    --cookie-banner-primary-color: #fff;
+    --cookie-banner-secondary-color: #000;
+    --cookie-banner-font-family: HelveticaNeue, Helvetica Neue, helvetica, Sans-Serif;
+    --cookie-banner-font-size: 14px;
+}
+<style>
+:root {
+    --cookie-banner-primary-color: #fff;
+    --cookie-banner-secondary-color: #000;
+    --cookie-banner-font-family: HelveticaNeue, Helvetica Neue, helvetica, Sans-Serif;
+    --cookie-banner-font-size: 14px;
+}
+<style>
+:root {
+    --cookie-banner-primary-color: #fff;
+    --cookie-banner-secondary-color: #000;
+    --cookie-banner-font-family: HelveticaNeue, Helvetica Neue, helvetica, Sans-Serif;
+    --cookie-banner-font-size: 14px;
+}
+<style>
+:root {
+    --cookie-banner-primary-color: #fff;
+    --cookie-banner-secondary-color: #000;
+    --cookie-banner-font-family: HelveticaNeue, Helvetica Neue, helvetica, Sans-Serif;
+    --cookie-banner-font-size: 14px;
+}
+<style>
+:root {
+    --cookie-banner-primary-color: #fff;
+    --cookie-banner-secondary-color: #000;
+    --cookie-banner-font-family: HelveticaNeue, Helvetica Neue, helvetica, Sans-Serif;
+    --cookie-banner-font-size: 14px;
+}
+<style>
+:root {
+    --cookie-banner-primary-color: #fff;
+    --cookie-banner-secondary-color: #000;
+    --cookie-banner-font-family: HelveticaNeue, Helvetica Neue, helvetica, Sans-Serif;
+    --cookie-banner-font-size: 14px;
+}
+<style>
+:root {
+    --cookie-banner-primary-color: #fff;
+    --cookie-banner-secondary-color: #000;
+    --cookie-banner-font-family: HelveticaNeue, Helvetica Neue, helvetica, Sans-Serif;
+    --cookie-banner-font-size: 14px;
+}
+<style>
+:root {
+    --cookie-banner-primary-color: #fff;
+    --cookie-banner-secondary-color: #000;
+    --cookie-banner-font-family: HelveticaNeue, Helvetica Neue, helvetica, Sans-Serif;
+    --cookie-banner-font-size: 14px;
+}
+:root {
+    --cookie-banner-primary-color: #fff;
+    --cookie-banner-secondary-color: #000;
+    --cookie-banner-font-family: HelveticaNeue,Helvetica Neue,helvetica,Sans-Serif;
+    --cookie-banner-font-size: 14px;
+}
+@supports (container-type:inline-size)
+:root {
+    --one-unit: 1cqw;
+}
+:root {
+    --one-unit: 1vw;
+}
